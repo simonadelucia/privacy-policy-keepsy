@@ -2,7 +2,7 @@
 
 Last updated: June 2026
 
-## Keepsy:
+## Keepsy:Explore & Collect
 
 Keepsy and its developers take your privacy very seriously.  
 Your thoughts are personal, and the app is designed to respect and protect that.
