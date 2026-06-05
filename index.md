@@ -15,7 +15,7 @@ The app does not require account creation, and no personal information is reques
 
 ## Third-Party Services
 
-Keepsy does **not use third-party analytics tools**, tracking technologies, or advertising services.
+Keepsy does **not use third-party analytics tools**, tracking technologies, or advertising services. Firebase is used solely as a backend database service to store and retrieve application data.
 
 ## Apple System Information
 
@@ -30,4 +30,4 @@ We do **not collect, transmit, distribute, sell, or share your data** with any t
 
 ## User Privacy
 
-Your thoughts stay private.  
+Your data stay private.  
